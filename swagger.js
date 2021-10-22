@@ -5,8 +5,8 @@ const doc = {
     title: 'Xuan Hung API',
     description: 'Description',
   },
-  // host: 'hw3-restful-api.herokuapp.com',
-  host: 'localhost:3000',
+  host: 'restful-api-without-db.herokuapp.com',
+  // host: 'localhost:3000',
   schemes: ['https', 'http'],
 };
 
