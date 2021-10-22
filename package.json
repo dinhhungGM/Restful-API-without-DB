@@ -9,8 +9,8 @@
     "swagger-ui-express": "^4.1.6"
   },
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "gen": "node swagger.js"
   },
   "devDependencies": {
